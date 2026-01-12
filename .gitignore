@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Logs
+*.log
+
+# Dados (não versionar)
+data/*.xlsx
+data/*.xls
+data/*.csv
+
+# EXCEÇÃO: template versionado
+!data/*TEMPLATE.xlsx
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
