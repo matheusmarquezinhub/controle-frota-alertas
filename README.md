@@ -151,4 +151,13 @@ Analista de Dados | Automação | Python | SQL | Power BI
 
 ---
 
+
+
+## Exemplo de alerta gerado
+
+Abaixo está um exemplo real do alerta exibido após a execução do script,
+com base nos dados informados no Excel.
+
+![Exemplo de alerta da frota](screenshots/alertas_exemplo.png)
+
 Projeto simples, direto e feito para resolver um problema real.
