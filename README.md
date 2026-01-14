@@ -1,4 +1,5 @@
 
+All of this was created using ChatGPT + Claude. I just tunnet it.
 # Controle de Frota — Alertas Automáticos
 
 Projeto em Python para **monitorar uma frota a partir de um Excel** e gerar **alertas automáticos** de manutenção, uso intenso e avisos importantes.
